@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilan Dahier Quintero Rivera</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on *learning in MAKAIA´S Bootcamp*
+- 🔭 I’m currently working Freelance Java Developer
 
 - 🌱 I’m currently learning *Back-End Development with Java,Spring, SQL*
 
