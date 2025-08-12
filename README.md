@@ -32,7 +32,7 @@ Currently expanding my fullstack skills with Angular and TypeScript.
 - Mockito
 - Lombok
 - Swagger / OpenAPI
-- Maven / Gradle
+- Gradle / Maven
 - Spring Boot 
 
 ---
